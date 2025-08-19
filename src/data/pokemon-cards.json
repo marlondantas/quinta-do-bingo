@@ -1,0 +1,1252 @@
+[
+  {
+    "number": 1,
+    "id": "BLK-1",
+    "name": "Snivy",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 495,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 2,
+    "id": "BLK-2",
+    "name": "Servine",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 496,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 3,
+    "id": "WHT-11",
+    "name": "Tepig",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 498,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 4,
+    "id": "WHT-12",
+    "name": "Pignite",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 499,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 5,
+    "id": "WHT-21",
+    "name": "Oshawott",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 501,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 6,
+    "id": "WHT-22",
+    "name": "Dewott",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 502,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 7,
+    "id": "WHT-72",
+    "name": "Patrat",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 504,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 8,
+    "id": "WHT-73",
+    "name": "Watchog",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 505,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 9,
+    "id": "WHT-74",
+    "name": "Lillipup",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 506,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 10,
+    "id": "WHT-75",
+    "name": "Herdier",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 507,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 11,
+    "id": "WHT-76",
+    "name": "Stoutland",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 508,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 12,
+    "id": "WHT-55",
+    "name": "Purrloin",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 509,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 13,
+    "id": "WHT-56",
+    "name": "Liepard",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 510,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 14,
+    "id": "BLK-4",
+    "name": "Pansage",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 511,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 15,
+    "id": "BLK-5",
+    "name": "Simisage",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 512,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 16,
+    "id": "WHT-14",
+    "name": "Pansear",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 513,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 17,
+    "id": "WHT-15",
+    "name": "Simisear",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 514,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 18,
+    "id": "BLK-17",
+    "name": "Panpour",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 515,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 19,
+    "id": "BLK-18",
+    "name": "Simipour",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 516,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 20,
+    "id": "BLK-35",
+    "name": "Munna",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 517,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 21,
+    "id": "BLK-36",
+    "name": "Musharna",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 518,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 22,
+    "id": "BLK-71",
+    "name": "Pidove",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 519,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 23,
+    "id": "BLK-72",
+    "name": "Tranquill",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 520,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 24,
+    "id": "BLK-73",
+    "name": "Unfezant",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 521,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 25,
+    "id": "WHT-31",
+    "name": "Blitzle",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 522,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 26,
+    "id": "WHT-32",
+    "name": "Zebstrika",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 523,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 27,
+    "id": "WHT-46",
+    "name": "Roggenrola",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 524,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 28,
+    "id": "WHT-47",
+    "name": "Boldore",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 525,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 29,
+    "id": "WHT-48",
+    "name": "Gigalith",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 526,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 30,
+    "id": "WHT-36",
+    "name": "Woobat",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 527,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 31,
+    "id": "WHT-37",
+    "name": "Swoobat",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 528,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 32,
+    "id": "BLK-45",
+    "name": "Drilbur",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 529,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 33,
+    "id": "BLK-74",
+    "name": "Audino",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 531,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 34,
+    "id": "BLK-47",
+    "name": "Timburr",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 532,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 35,
+    "id": "BLK-48",
+    "name": "Gurdurr",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 533,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 36,
+    "id": "BLK-19",
+    "name": "Tympole",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 535,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 37,
+    "id": "BLK-20",
+    "name": "Palpitoad",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 536,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 38,
+    "id": "BLK-21",
+    "name": "Seismitoad",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 537,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 39,
+    "id": "BLK-50",
+    "name": "Throh",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 538,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 40,
+    "id": "WHT-49",
+    "name": "Sawk",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 539,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 41,
+    "id": "WHT-1",
+    "name": "Sewaddle",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 540,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 42,
+    "id": "WHT-2",
+    "name": "Swadloon",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 541,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 43,
+    "id": "WHT-3",
+    "name": "Leavanny",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 542,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 44,
+    "id": "BLK-54",
+    "name": "Venipede",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 543,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 45,
+    "id": "BLK-55",
+    "name": "Whirlipede",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 544,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 46,
+    "id": "BLK-56",
+    "name": "Scolipede",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 545,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 47,
+    "id": "WHT-4",
+    "name": "Cottonee",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 546,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 48,
+    "id": "BLK-6",
+    "name": "Petilil",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 548,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 49,
+    "id": "BLK-7",
+    "name": "Lilligant",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 549,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 50,
+    "id": "WHT-24",
+    "name": "Basculin",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 550,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 51,
+    "id": "BLK-57",
+    "name": "Sandile",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 551,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 52,
+    "id": "BLK-58",
+    "name": "Krokorok",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 552,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 53,
+    "id": "BLK-59",
+    "name": "Krookodile",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 553,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 54,
+    "id": "BLK-13",
+    "name": "Darumaka",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 554,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 55,
+    "id": "BLK-14",
+    "name": "Darmanitan",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 555,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 56,
+    "id": "BLK-8",
+    "name": "Maractus",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 556,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 57,
+    "id": "BLK-51",
+    "name": "Dwebble",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 557,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 58,
+    "id": "BLK-52",
+    "name": "Crustle",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 558,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 59,
+    "id": "WHT-57",
+    "name": "Scraggy",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 559,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 60,
+    "id": "WHT-58",
+    "name": "Scrafty",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 560,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 61,
+    "id": "WHT-38",
+    "name": "Sigilyph",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 561,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 62,
+    "id": "WHT-39",
+    "name": "Yamask",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 562,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 63,
+    "id": "BLK-22",
+    "name": "Tirtouga",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 564,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 64,
+    "id": "WHT-50",
+    "name": "Archen",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 566,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 65,
+    "id": "WHT-131",
+    "name": "Archen",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 566,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 66,
+    "id": "WHT-59",
+    "name": "Trubbish",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 568,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 67,
+    "id": "WHT-60",
+    "name": "Garbodor",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 569,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 68,
+    "id": "WHT-61",
+    "name": "Zorua",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 570,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 69,
+    "id": "BLK-75",
+    "name": "Minccino",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 572,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 70,
+    "id": "BLK-76",
+    "name": "Cinccino",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 573,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 71,
+    "id": "WHT-41",
+    "name": "Gothita",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 574,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 72,
+    "id": "WHT-42",
+    "name": "Gothorita",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 575,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 73,
+    "id": "BLK-37",
+    "name": "Solosis",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 577,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 74,
+    "id": "BLK-38",
+    "name": "Duosion",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 578,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 75,
+    "id": "BLK-39",
+    "name": "Reuniclus",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 579,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 76,
+    "id": "WHT-25",
+    "name": "Ducklett",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 580,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 77,
+    "id": "WHT-26",
+    "name": "Swanna",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 581,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 78,
+    "id": "WHT-27",
+    "name": "Vanillite",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 582,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 79,
+    "id": "WHT-28",
+    "name": "Vanillish",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 583,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 80,
+    "id": "WHT-29",
+    "name": "Vanilluxe",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 584,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 81,
+    "id": "WHT-6",
+    "name": "Deerling",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 585,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 82,
+    "id": "WHT-7",
+    "name": "Sawsbuck",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 586,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 83,
+    "id": "BLK-29",
+    "name": "Emolga",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 587,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 84,
+    "id": "BLK-9",
+    "name": "Karrablast",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 588,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 85,
+    "id": "BLK-60",
+    "name": "Escavalier",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 589,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 86,
+    "id": "BLK-10",
+    "name": "Foongus",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 590,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 87,
+    "id": "BLK-11",
+    "name": "Amoonguss",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 591,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 88,
+    "id": "WHT-44",
+    "name": "Frillish",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 592,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 89,
+    "id": "BLK-24",
+    "name": "Alomomola",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 594,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 90,
+    "id": "WHT-33",
+    "name": "Joltik",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 595,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 91,
+    "id": "WHT-34",
+    "name": "Galvantula",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 596,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 92,
+    "id": "WHT-68",
+    "name": "Ferroseed",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 597,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 93,
+    "id": "WHT-69",
+    "name": "Ferrothorn",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 598,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 94,
+    "id": "BLK-61",
+    "name": "Klink",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 599,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 95,
+    "id": "BLK-62",
+    "name": "Klang",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 600,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 96,
+    "id": "BLK-30",
+    "name": "Tynamo",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 602,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 97,
+    "id": "BLK-31",
+    "name": "Eelektrik",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 603,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 98,
+    "id": "BLK-32",
+    "name": "Eelektross",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 604,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 99,
+    "id": "BLK-40",
+    "name": "Elgyem",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 605,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 100,
+    "id": "BLK-41",
+    "name": "Beheeyem",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 606,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 101,
+    "id": "WHT-16",
+    "name": "Litwick",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 607,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 102,
+    "id": "WHT-17",
+    "name": "Lampent",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 608,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 103,
+    "id": "BLK-68",
+    "name": "Axew",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 610,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 104,
+    "id": "BLK-69",
+    "name": "Fraxure",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 611,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 105,
+    "id": "BLK-25",
+    "name": "Cubchoo",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 613,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 106,
+    "id": "BLK-27",
+    "name": "Cryogonal",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 615,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 107,
+    "id": "WHT-8",
+    "name": "Shelmet",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 616,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 108,
+    "id": "WHT-9",
+    "name": "Accelgor",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 617,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 109,
+    "id": "WHT-35",
+    "name": "Stunfisk",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 618,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 110,
+    "id": "WHT-52",
+    "name": "Mienfoo",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 619,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 111,
+    "id": "WHT-53",
+    "name": "Mienshao",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 620,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 112,
+    "id": "WHT-71",
+    "name": "Druddigon",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 621,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 113,
+    "id": "BLK-42",
+    "name": "Golett",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 622,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 114,
+    "id": "BLK-43",
+    "name": "Golurk",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 623,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 115,
+    "id": "BLK-64",
+    "name": "Pawniard",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 624,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 116,
+    "id": "BLK-65",
+    "name": "Bisharp",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 625,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 117,
+    "id": "BLK-77",
+    "name": "Rufflet",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 627,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  },
+  {
+    "number": 118,
+    "id": "BLK-78",
+    "name": "Braviary",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 628,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "BLK"
+  },
+  {
+    "number": 119,
+    "id": "WHT-63",
+    "name": "Vullaby",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 629,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 120,
+    "id": "WHT-64",
+    "name": "Mandibuzz",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 630,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 121,
+    "id": "WHT-19",
+    "name": "Heatmor",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 631,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 122,
+    "id": "WHT-70",
+    "name": "Durant",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 632,
+    "isEx": false,
+    "rarity": "Uncommon",
+    "setId": "WHT"
+  },
+  {
+    "number": 123,
+    "id": "WHT-65",
+    "name": "Deino",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 633,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 124,
+    "id": "WHT-66",
+    "name": "Zweilous",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 634,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "WHT"
+  },
+  {
+    "number": 125,
+    "id": "BLK-15",
+    "name": "Larvesta",
+    "supertype": "Pokémon",
+    "nationalPokedexNumbers": 636,
+    "isEx": false,
+    "rarity": "Common",
+    "setId": "BLK"
+  }
+]
