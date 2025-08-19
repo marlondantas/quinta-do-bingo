@@ -1,4 +1,37 @@
-export async function sendToDiscord(payload: any): Promise<void> {
+// Types for Discord webhook payloads
+interface DiscordWebhookPayload {
+  content?: string;
+  embeds?: Array<{
+    title?: string;
+    description?: string;
+    color?: number;
+    fields?: Array<{
+      name: string;
+      value: string;
+      inline?: boolean;
+    }>;
+    timestamp?: string;
+    footer?: {
+      text: string;
+      icon_url?: string;
+    };
+    thumbnail?: {
+      url: string;
+    };
+    image?: {
+      url: string;
+    };
+    author?: {
+      name: string;
+      url?: string;
+      icon_url?: string;
+    };
+  }>;
+  username?: string;
+  avatar_url?: string;
+}
+
+export async function sendToDiscord(payload: DiscordWebhookPayload): Promise<void> {
   const webhookUrl = process.env.DISCORD_WEBHOOK_URL;
   
   if (!webhookUrl) {

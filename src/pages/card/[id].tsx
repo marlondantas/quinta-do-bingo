@@ -47,8 +47,6 @@ export default function BingoCardPage() {
   const updatedCard = { ...currentCard, markedPositions: newMarkedPositions };
   setCurrentCard(updatedCard);
 
-  console.table(updatedCard);
-  
   // Analytics com dados corretos
   analytics.trackCellMarking({
     cardId: currentCard.id,
