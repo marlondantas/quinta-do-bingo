@@ -9,11 +9,14 @@ import { useLocalStorage } from '@/hooks/useLocalStorage';
 import { bingoUtils } from '@/lib/seedGenerator';
 
 import { BingoCard } from '../types/bingo';
-import ImageTest from '../components/ImageTest';
-import BingoCell from '../components/BingoCell';
-import { LastDrawnNumber } from '@/lib/lastDrawnNumbers';
+
+import { analytics } from '../services/analytics';
+import { usePrivacyConsent } from '@/hooks/usePrivacyConsent';
+
 
 export default function Home() {
+  const hasConsent = usePrivacyConsent();
+
   const router = useRouter();
   const [bingoCards, setBingoCards] = useLocalStorage<BingoCard[]>('bingo-cards', []);
   const [cardName, setCardName] = useState('');
@@ -25,7 +28,7 @@ export default function Home() {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    
+
     if (!cardName.trim()) {
       alert('Por favor, insira um nome para a cartela!');
       return;
@@ -42,6 +45,13 @@ export default function Home() {
     };
 
     setBingoCards([...bingoCards, newCard]);
+
+    analytics.trackCardCreation({
+      id: newCard.id,
+      name: newCard.name,
+      timestamp: newCard.createdAt?.toISOString()
+    });
+
     setCardName('');
   };
 

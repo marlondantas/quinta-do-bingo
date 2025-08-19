@@ -8,6 +8,7 @@ import { BingoCard } from '../../types/bingo';
 import { pokemonData } from '../../lib/pokemonData';
 import BingoCell from '../../components/BingoCell';
 import { LastDrawnNumberService } from '@/lib/lastDrawnNumbers';
+import { analytics } from '../../services/analytics';
 
 export default function BingoCardPage() {
   const router = useRouter();
@@ -27,26 +28,43 @@ export default function BingoCardPage() {
   }, [id, bingoCards, router]);
 
   const handleCellClick = (index: number) => {
-    if (!currentCard) return;
+  if (!currentCard) return;
 
-    const newMarkedPositions = [...currentCard.markedPositions];
-    const positionIndex = newMarkedPositions.indexOf(index);
+  const newMarkedPositions = [...currentCard.markedPositions];
+  const positionIndex = newMarkedPositions.indexOf(index);
+  
+  // Determinar se está marcando ou desmarcando
+  const isMarking = positionIndex === -1;
+  
+  if (positionIndex > -1) {
+    // Desmarcando - remover da lista
+    newMarkedPositions.splice(positionIndex, 1);
+  } else {
+    // Marcando - adicionar à lista
+    newMarkedPositions.push(index);
+  }
 
-    if (positionIndex > -1) {
-      newMarkedPositions.splice(positionIndex, 1);
-    } else {
-      newMarkedPositions.push(index);
-    }
+  const updatedCard = { ...currentCard, markedPositions: newMarkedPositions };
+  setCurrentCard(updatedCard);
 
-    const updatedCard = { ...currentCard, markedPositions: newMarkedPositions };
-    setCurrentCard(updatedCard);
+  console.table(updatedCard);
+  
+  // Analytics com dados corretos
+  analytics.trackCellMarking({
+    cardId: currentCard.id,
+    cardName: currentCard.name,
+    pokemons: currentCard.pokemons,
+    markedPositions: newMarkedPositions,
+    lastMarkedPosition: index,
+    timestamp: new Date().toISOString()
+  });
 
-    // Atualizar no localStorage
-    const updatedCards = bingoCards.map(card =>
-      card.id === currentCard.id ? updatedCard : card
-    );
-    setBingoCards(updatedCards);
-  };
+  // Atualizar no localStorage
+  const updatedCards = bingoCards.map(card =>
+    card.id === currentCard.id ? updatedCard : card
+  );
+  setBingoCards(updatedCards);
+};
 
   const checkBingo = () => {
     if (!currentCard) return false;
