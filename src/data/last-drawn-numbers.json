@@ -1,26 +1,50 @@
 [
     {
         "lastDrawnId":"BLK-69",
-        "date":"225-08-21"
+        "date":"2025-08-21"
     },
     {
         "lastDrawnId":"BLK-40",
-        "date":"225-08-21"
+        "date":"2025-08-21"
     },
     {
         "lastDrawnId":"BLK-31",
-        "date":"225-08-21"
+        "date":"2025-08-21"
     },
     {
         "lastDrawnId":"BLK-17",
-        "date":"225-08-21"
+        "date":"2025-08-21"
     },
     {
         "lastDrawnId":"BLK-63",
-        "date":"225-08-21"
+        "date":"2025-08-21"
     },
     {
         "lastDrawnId":"ENERGY-3",
-        "date":"225-08-21"
+        "date":"2025-08-21"
+    },
+    {
+        "lastDrawnId":"WHT-01",
+        "date":"2025-08-28"
+    },
+    {
+        "lastDrawnId":"WHT-68",
+        "date":"2025-08-28"
+    },
+    {
+        "lastDrawnId":"WHT-15",
+        "date":"2025-08-28"
+    },
+    {
+        "lastDrawnId":"WHT-41",
+        "date":"2025-08-28"
+    },
+    {
+        "lastDrawnId":"WHT-160",
+        "date":"2025-08-28"
+    },
+    {
+        "lastDrawnId":"ENERGY-6",
+        "date":"2025-08-28"
     }
 ]
