@@ -46,5 +46,53 @@
     {
         "lastDrawnId":"ENERGY-6",
         "date":"2025-08-28"
+    },
+    {
+        "lastDrawnId":"BLK-02",
+        "date":"2025-09-04"
+    },
+    {
+        "lastDrawnId":"BLK-68",
+        "date":"2025-09-04"
+    },
+    {
+        "lastDrawnId":"BLK-59",
+        "date":"2025-09-04"
+    },
+    {
+        "lastDrawnId":"BLK-43",
+        "date":"2025-09-04"
+    },
+    {
+        "lastDrawnId":"BLK-003",
+        "date":"2025-09-04"
+    },
+    {
+        "lastDrawnId":"ENERGY-4",
+        "date":"2025-09-04"
+    },
+    {
+        "lastDrawnId":"WHT-11",
+        "date":"2025-09-04"
+    },
+    {
+        "lastDrawnId":"WHT-01",
+        "date":"2025-09-04"
+    },
+    {
+        "lastDrawnId":"WHT-22",
+        "date":"2025-09-04"
+    },
+    {
+        "lastDrawnId":"WHT-73",
+        "date":"2025-09-04"
+    },
+    {
+        "lastDrawnId":"WHT-15",
+        "date":"2025-09-04"
+    },
+    {
+        "lastDrawnId":"WHT-63",
+        "date":"2025-09-04"
     }
 ]
